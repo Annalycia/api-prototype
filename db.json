@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "1",
+      "name": "Batteries",
+      "description": "Item used to power various electronic devices and systems"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "2",
+      "name": "Cellphone",
+      "description": "A portable electronic device used for communication"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "3",
+      "name": "Spacial Computer",
+      "description": "Item that enables immersive experiences by integrating virtual and physical environments"
+    }
+  ],
+  "users": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "4",
+      "name": "John_Doe",
+      "description": "Passionate about exploring the latest electronic gadgets.",
+      "itemId": "5"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "5",
+      "name": "Jane_Doe",
+      "description": "An expert in all things tech, always on the lookout for cutting-edge devices",
+      "itemId": "6"
+    }
+  ],
+  "collection": {
+    "@context": "https://schema.org/",
+    "@type": "Collection",
+    "name": "Annalycia's API prototype",
+    "creator": "annalyciasantos",
+    "about": "A collection of electronics",
+    "url": "https://www.annalyciasantos.info"
+  }
+}
